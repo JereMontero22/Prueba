@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 Hola
+=======
+
+que esta pasando
+loquito
+
+
+chauuuholaaaaaaaaaaaaaaa jere
+>>>>>>> 078d5975dc190cab1a028dcccbdc5f6e11dde54f
